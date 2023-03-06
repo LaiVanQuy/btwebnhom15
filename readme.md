@@ -1,10 +1,10 @@
 # Bài tập Fullscreen API Attack
 
 Thành viên nhóm:
-Lại Văn Quý 20110708
-Nguyễn Thành Phương 20110294
-Hoàng Nhất Vũ 20110751
-Lê Đình Bảo 20110613
+- Lại Văn Quý 20110708
+- Nguyễn Thành Phương 20110294
+- Hoàng Nhất Vũ 20110751
+- Lê Đình Bảo 20110613
 
 ## Hướng dẫn sử dụng 
 
